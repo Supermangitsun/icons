@@ -1,0 +1,44 @@
+page{
+  background-color: #F0F0F0;
+}
+swiper{
+  width: 750rpx;
+}
+swiper image{
+  width: 750rpx;
+  height: 320rpx;
+}
+/* title标题 */
+.title{
+  margin: 20rpx;
+  color: black;
+  font-weight: 600;
+}
+/* 活动列表 */
+.item{
+  position: relative;
+}
+.item image{
+  width: 750rpx;
+  height: 320rpx;
+}
+.nth-one{
+  display: block;
+  width: 600rpx;
+  font-weight: 500;
+  padding: 10px 20px;
+}
+.nth-two{
+  position: absolute;
+  right: 30rpx;
+  top: 348rpx;
+  color: #FE6249;
+}
+.nth-three{
+  margin: 20rpx 40rpx;
+}
+.nth-three text{
+  color: #B4B4B4;
+  font-size: 25rpx;
+  margin-right: 20rpx;
+}

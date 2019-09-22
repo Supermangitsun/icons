@@ -1,0 +1,60 @@
+<!--index.wxml-->
+<swiper indicator-dots="true" autoplay="true" circular>
+  <swiper-item>
+     <image src="https://supermangitsun.github.io/icons/uploads/slide_1.jpg"/>
+  </swiper-item>
+  <swiper-item>
+     <image src="https://supermangitsun.github.io/icons/uploads/slide_2.jpg"/>
+  </swiper-item>
+  <swiper-item>
+     <image src="https://supermangitsun.github.io/icons/uploads/slide_3.jpg"/>
+  </swiper-item>
+  <swiper-item>
+     <image src="https://supermangitsun.github.io/icons/uploads/slide_4.jpg"/>
+  </swiper-item>
+</swiper>
+<view class="title">乐园活动</view>
+<view class="item">
+  <navigator url="../logs/logs">
+    <image src="https://supermangitsun.github.io/icons/uploads/item_1.png"/>
+  </navigator>
+  <text class="nth-one">疯狂的红包 不一样的撕名牌 大型家庭亲子户外活动</text>
+  <view class="nth-two">免费</view>
+<view class="nth-three">
+      <text class="icon-time">200人已报名</text>
+      <text class="icon-share">本周六开始</text>
+</view>
+</view>
+<view class="item">
+  <navigator url="../logs/logs">
+    <image src="https://supermangitsun.github.io/icons/uploads/item_2.png"/>
+  </navigator>
+  <text class="nth-one">疯狂的红包 不一样的撕名牌 大型家庭亲子户外活动</text>
+  <view class="nth-two">免费</view>
+<view class="nth-three">
+   <text class="icon-time">200人已报名</text>
+      <text class="icon-share">本周六开始</text>
+</view>
+</view>
+<view class="item">
+  <navigator url="../logs/logs">
+    <image src="https://supermangitsun.github.io/icons/uploads/item_3.png"/>
+  </navigator>
+  <text class="nth-one">疯狂的红包 不一样的撕名牌 大型家庭亲子户外活动</text>
+  <view class="nth-two">免费</view>
+<view class="nth-three">
+      <text class="icon-time">200人已报名</text>
+      <text class="icon-share">本周六开始</text>
+</view>
+</view>
+<view class="item">
+  <navigator url="../logs/logs">
+    <image src="https://supermangitsun.github.io/icons/uploads/item_4.png"/>
+  </navigator>
+  <text class="nth-one">疯狂的红包 不一样的撕名牌 大型家庭亲子户外活动</text>
+  <view class="nth-two">免费</view>
+<view class="nth-three">
+       <text class="icon-time">200人已报名</text>
+      <text class="icon-share">本周六开始</text>
+</view>
+</view>
